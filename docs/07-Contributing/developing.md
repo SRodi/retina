@@ -192,7 +192,7 @@ Additional information about Git's use of GPG can be found [here](https://git-sc
 
 test
 test1
-
+test3
 ### Developers Certificate of Origin (DCO)
 
 Contributions to Retina must contain a Developers Certificate of Origin within their constituent commits.
