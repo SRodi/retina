@@ -63,7 +63,8 @@ var (
 	ForwardPacketsGauge GaugeVec
 	ForwardBytesGauge   GaugeVec
 
-	WindowsGauge GaugeVec
+	// Windows
+	HNSStatsGauge GaugeVec
 
 	// Common gauges across os distributions
 	NodeConnectivityStatusGauge  GaugeVec
